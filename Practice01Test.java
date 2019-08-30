@@ -11,7 +11,7 @@ public class Practice01Test {
 
 
 	/*
-	 * Constructor for the class.
+	 * Constructor for the class. k
 	 */
 	public Practice01Test () {
 		types = new String [] {"recursive", "iterative"};
